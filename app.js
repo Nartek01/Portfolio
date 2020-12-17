@@ -1,0 +1,1 @@
+console.log("This website is created with static non dynamic using HTML,CSS and this message as Javascript,\n I will keep working on it and make it more dynamic and more mobile friendly in the future.")
